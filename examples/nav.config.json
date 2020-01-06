@@ -1,0 +1,25 @@
+{
+  "开发指南": [
+    {
+      "name": "giud",
+      "path": "/giud",
+      "desc": "介绍"
+    },
+    {
+      "name": "install",
+      "path": "/install",
+      "desc": "安装与使用"
+    },
+    {
+      "name": "index",
+      "path": "/",
+      "type": "pages"
+    },
+    {
+      "name": "test",
+      "path": "/test",
+      "desc": "测试",
+      "type": "test"
+    }
+  ]
+}
